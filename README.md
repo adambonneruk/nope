@@ -16,6 +16,16 @@ sudo apt-get install docker
 ## Usage
 ```bash
 # build the image
+docker build -t nope .
+
+# run the image
+docker run -p 8080:80 nope:latest
+
+```
+
+### Usage (Docker.io)
+```bash
+# build the image
 docker build -t adambonneruk/nope .
 
 # run the image
