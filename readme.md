@@ -1,3 +1,12 @@
+# "Number of Pink Elephants": Apache using Docker
+"Number of Pink Elephants"/"NOPE" is a small example Dockerfile project designed to teach (and serve as my own reference for) building, running and hosting Dockerfile images on Github and Docker Hub). Leveraging the publically-maintained httpd image and inserting some .html code, this project documents the process here while being publically available for others to utilise and/or fork.
+
+> The "NOPE" container image/dockerfile project is available on my [Docker Hub](https://hub.docker.com/repository/docker/adambonneruk/nope).
+
+
+TBC
+
+---
 # nope (using Docker)
 Dockerfile and associated files used to generate a small Apache image hosting a single .html page
 
